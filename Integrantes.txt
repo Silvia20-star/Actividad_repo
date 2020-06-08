@@ -1,3 +1,10 @@
 Lista de integrantes
 Abraham :D
+<<<<<<< HEAD
 Silvia Herrera González.
+=======
+Emiliano
+Lenin uwu
+Silvia Herrera González
+Eduardo uwu
+>>>>>>> 2f01e0e7713050e2d94c1939a1913aac35149c36
